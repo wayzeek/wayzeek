@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **advanced blockchain architectures and exploring the intersection of cryptography and software development to innovate within the Web3 space.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wayzeek?tab=repositories](https://github.com/wayzeek?tab=repositories)
+- 👨‍💻 All of my projects are available on my public [repositories](https://github.com/wayzeek?tab=repositories)
 
 - 💬 Ask me about **blockchain technology, AI, project development strategies, or anything tech or art related!**
 
